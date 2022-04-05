@@ -10,6 +10,8 @@
 
  📫 Reach me at **leontrg32@gmail.com**
  
+ ⚡ Know me more here **https://leonardtarigan.github.io/**
+ 
  <br>
 
 <h3 align="left">Connect with me:</h3>
