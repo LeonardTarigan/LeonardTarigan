@@ -10,7 +10,7 @@
 
  📫 Reach me at **leontrg32@gmail.com**
  
- ⚡ Know me more here **https://leonardtarigan.github.io/**
+ ⚡ Know me more at **https://leonardtarigan.github.io/**
  
  <br>
 
