@@ -11,7 +11,7 @@
   ```json
     "age" : 19,
     "nationality" : "Indonesian",
-    "hobby" : ["Music", "Coding", "Sports"],
+    "hobbies" : ["Music", "Coding", "Sports"],
     "university" : "University of Brawijaya",
     "major": "Informatics", 
     "main" : {
