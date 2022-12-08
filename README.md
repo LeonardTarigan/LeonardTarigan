@@ -4,19 +4,35 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World+&hearts;++;Web+x+Mobile+Development;Informatics+Student;Loves+Anime;Dream+Theater+Fan"></a>
 </p>
 
-<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-🔭 I’m majoring in Informatics Engineering<br>
-🌱 I’m currently learning  Web  and Mobile Development<br>
-💬 Ask me about HTML, CSS, JavaScript
+  ```json
+    "age" : 19,
+    "nationality" : "Indonesian",
+    "hobby" : ["Music", "Coding", "Sports"],
+    "university" : "University of Brawijaya",
+    "major": "Informatics", 
+    "main" : {
+      "field" : ["Web Development", "Mobile Development"],
+      "tech" : {
+        "framework" : "Next.js",
+        "styling" : "Tailwind CSS",
+        "package-manager" : "yarn"
+        "deployment" : "Vercel"
+      }
+    }
+  ```
+
+
 <br/><br/>
 
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Let's Connect!</b>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_leonnntrg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardtarigan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_leonnntrg) 
+
+
 <br/><br/>
 
 
@@ -48,8 +64,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </div>
 
-<br/><br/>
 
+<br/><br/>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -58,5 +74,4 @@
 <br/><br/>
 
 
-## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
