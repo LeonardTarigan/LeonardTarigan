@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m majoring in Informatics Engineering<br>🌱 I’m currently learning Frontend Web Development<br>💬 Ask me about HTML, CSS, JavaScript
+🔭 I’m majoring in Informatics Engineering<br>🌱 I’m currently learning Frontend Web Development and Mobile Development<br>💬 Ask me about HTML, CSS, JavaScript
 <br/><br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_leonnntrg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardtarigan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_leonnntrg) 
