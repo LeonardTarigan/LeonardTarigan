@@ -20,7 +20,7 @@
         "framework" : "Next.js",
         "styling" : "Tailwind CSS",
         "package-manager" : "yarn"
-        "deployment" : "Vercel"
+        "hosting" : "Vercel"
       }
     }
   ```
