@@ -15,7 +15,7 @@
     "university" : "University of Brawijaya",
     "major": "Informatics", 
     "main" : {
-      "field" : ["Web Development", "Mobile Development"],
+      "field" : ["Web Development"],
       "tech" : {
         "framework" : "Next.js",
         "styling" : "Tailwind CSS",
