@@ -1,7 +1,7 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 310px height=310px></picture>
+<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 310px height=310px></picture> -->
 
   ```json
     {
@@ -73,8 +73,5 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardTarigan&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br/><br/>
 
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
