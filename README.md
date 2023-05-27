@@ -1,5 +1,7 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 
+<br/>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 310px height=310px></picture> -->
 
@@ -12,9 +14,9 @@
         "university" : "University of Brawijaya",
         "major": "Informatics", 
         "main" : {
-          "field" : ["Web Development"],
+          "field" : "Web Development",
           "tech" : {
-            "framework" : "Next.js",
+            "js-framework" : "Next.js",
             "styling" : "Tailwind CSS",
             "package-manager" : "yarn"
             "hosting" : "Vercel"
@@ -23,16 +25,6 @@
       }
     }
   ```
-
-
-<br/><br/>
-
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Let's Connect!</b>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_leonnntrg) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardtarigan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/userflexbox) 
-
 
 <br/><br/>
 
