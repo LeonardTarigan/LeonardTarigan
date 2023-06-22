@@ -2,7 +2,7 @@
 
 <br/>
 
-<h2>TECHS I'VE LEARNED</h2>
+## TECHS I'VE LEARNED
 <div>
   <!--   typescript -->
   <img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -14,10 +14,6 @@
   <img align="left" alt="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <!--   dart -->
   <img align="left" alt="Dart" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<!--   html -->
-  <img align="left" alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<!--   css -->
-  <img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <!--   sass -->
   <img align="left" alt="SASS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <!--   tailwind -->
@@ -37,14 +33,10 @@
 <!--   redux -->
   <img align="left" alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
-<!--   figma -->
-  <img align="left" alt="Figma" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
-
 
 <br/>
 <br/>
 
-## <h2>GITHUB STATS</h2>
+## GITHUB STATS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardTarigan&theme=radical&hide_border=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=donut&theme=radical&hide_border=true&rank_icon=github&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
