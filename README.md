@@ -3,38 +3,44 @@
 <br/>
 
 <h2>TECHS I'VE LEARNED</h2>
-<!--   typescript -->
-  <img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<div>
+  <!--   typescript -->
+  <img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!--   javascript -->
-  <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <!--   java -->
-  <img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <!--   php -->
-  <img align="left" alt="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <!--   dart -->
-  <img align="left" alt="Dart" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Dart" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <!--   html -->
-  <img align="left" alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <!--   css -->
-  <img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <!--   sass -->
-  <img align="left" alt="SASS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="SASS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <!--   tailwind -->
-  <img align="left" alt="Tailwind" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="Tailwind" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <!--   react -->
-  <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!--  vue -->
-  <img align="left" alt="Vue" width="36px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="padding-right:10px;" />
+  <img align="left" alt="Vue" width="36px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" />
 <!--   nextjs -->
-  <img align="left" alt="Nextjs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Nextjs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <!--  laravel -->
-  <img align="left" alt="Laravel" width="36px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" style="padding-right:10px;" />
+  <img align="left" alt="Laravel" width="36px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
 <!--   flutter -->
-  <img align="left" alt="Flutter" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Flutter" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <!--   firebase -->
-  <img align="left" alt="Firebase" width="36px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />
+  <img align="left" alt="Firebase" width="36px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <!--   redux -->
-  <img align="left" alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</div>
+<!--   figma -->
+  <img align="left" alt="Figma" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
 
 <br/>
 <br/>
