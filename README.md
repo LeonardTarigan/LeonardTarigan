@@ -39,4 +39,4 @@
 
 ## GITHUB STATS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardTarigan&theme=radical&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=donut&theme=radical&hide_border=true&rank_icon=github&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
