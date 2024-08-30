@@ -17,9 +17,9 @@
  <img alt="Firebase" width="36px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
  <img alt="Supabase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
  <img alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
- <img alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
- <img alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+ <img alt="NPM" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+ <img alt="PNPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
+ <img alt="Yarn" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
 </div>
 
 
@@ -29,5 +29,5 @@
 
 <div align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=300px" alt="Top Langs"/>
+  <img height=200 style="border: 2px solid white" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px" alt="Top Langs"/>
 </div>
