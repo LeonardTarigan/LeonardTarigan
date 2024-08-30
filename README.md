@@ -2,6 +2,17 @@
 
 <br/>
 
+<div align="center">
+ <p>
+  I am a final-year Informatics student passionate about technology and web development. As a web frontend engineer, I specialize in creating interactive and user-friendly  interfaces. I'm currently expanding my skill set by learning backend development and diving into the world of machine learning.
+ </p>
+ <p>
+ I love exploring new tools and technologies and enjoy working on innovative projects that make a difference!
+ </p>
+</div>
+
+<br/>
+
 <div align="center" style="display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
  <img alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -28,6 +39,6 @@
 <br/>
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
-  <img height=200 style="border: 2px solid white" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px" alt="Top Langs"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
+  <img height=170 style="border: 2px solid white" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px" alt="Top Langs"/>
 </div>
