@@ -28,6 +28,6 @@
 <br/>
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Streak Stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=500px" alt="Top Langs"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=300px" alt="Top Langs"/>
 </div>
