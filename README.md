@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
- <h1>こんにちは</h1>
+ <h1>こんにちは - Bonjour - Ciao</h1>
  <p>
   I am a final-year Informatics student passionate about technology and web development. As a web frontend engineer, I specialize in creating interactive and user-friendly  interfaces. I'm currently expanding my skill set by learning backend and mobile development.
  </p>
