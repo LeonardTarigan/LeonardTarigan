@@ -48,8 +48,8 @@
 
 <br/>
 <br/>
-<br/>
 
 <div align="center">
- © 2024 — Leonard Tarigan
+ <h1></h1>
+ <p>© 2024 — Leonard Tarigan</p>
 </div>
