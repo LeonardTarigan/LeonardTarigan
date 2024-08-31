@@ -43,7 +43,7 @@
 
 <div align="center">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
-  <img height=170 style="border: 2px solid white" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px" alt="Top Langs"/>
+  <img height=170 style="border: 2px solid white" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px&exclude_repo=mlops-tugas-1" alt="Top Langs"/>
 </div>
 
 <br/>
