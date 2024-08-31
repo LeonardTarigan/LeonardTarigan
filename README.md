@@ -5,9 +5,9 @@
 <br/>
 
 <div align="center">
- <h1>Frontend Enthusiast</h1>
+ <h1>Software Engineerng Enthusiast</h1>
  <p>
-  I am a final-year Informatics student passionate about technology and web development. As a web frontend engineer, I specialize in creating interactive and user-friendly  interfaces. I'm currently expanding my skill set by learning backend and mobile development.
+  I am a final-year Informatics student passionate about technology and software engineering. As a web frontend engineer, I specialize in creating interactive and user-friendly  interfaces. I'm currently expanding my skill set by learning backend and mobile development.
  </p>
  <p>
  I love exploring new tools and technologies and enjoy working on innovative projects that make a difference!
