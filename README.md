@@ -31,9 +31,8 @@
  <img alt="Firebase" width="36px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
  <img alt="Supabase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
  <img alt="Redux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img alt="NPM" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
- <img alt="PNPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
- <img alt="Yarn" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+ <img alt="MUI" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+ <img alt="Antd" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" />
 </div>
 
 
