@@ -47,7 +47,7 @@
            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=o98rnsdoj0m9q5kntsv8nh1h2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile" />
       </a>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="70%">
         <img height=170 src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
         <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px&exclude_repo=mlops-tugas-1" alt="Top Langs"/>
     </td>
