@@ -42,8 +42,8 @@
 
 <table>
  <tr>
-    <td align="center" width="45%">
-       <img  height="50%" width="100%" src="https://media1.tenor.com/m/DZOYL0HFTzkAAAAd/momo-ayase-chomp-momo-chomp.gif" alt="gif" />
+    <td align="center" valign="center" width="45%">
+       <img  height="50%" width="100%" src="https://media1.tenor.com/m/n1ApnNvUKZoAAAAC/dandadan-ddd.gif" alt="gif" />
     </td>
     <td valign="top" width="55%">
         <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=500px&hide_border=true" alt="GitHub Streak Stats"/>
