@@ -42,12 +42,12 @@
 
 <table>
  <tr>
-    <td align="center" width="50%">
-       <img  height="50%" width="50%" src="https://media1.tenor.com/m/DZOYL0HFTzkAAAAd/momo-ayase-chomp-momo-chomp.gif" alt="spotify-github-profile" />
+    <td align="center" width="40%">
+       <img  height="50%" width="100%" src="https://media1.tenor.com/m/DZOYL0HFTzkAAAAd/momo-ayase-chomp-momo-chomp.gif" alt="gif" />
     </td>
-    <td valign="top" width="50%">
-        <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
-        <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=350px&exclude_repo=mlops-tugas-1" alt="Top Langs"/>
+    <td valign="top" width="60%">
+        <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=500px&hide_border=true" alt="GitHub Streak Stats"/>
+        <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=500px&exclude_repo=mlops-tugas-1" alt="Top Langs"/>
     </td>
  </tr>
 </table>
