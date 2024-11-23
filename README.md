@@ -43,9 +43,7 @@
 <table>
  <tr>
     <td align="center">
-      <a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=o98rnsdoj0m9q5kntsv8nh1h2&redirect=true">
-           <img  height="50%"  width="100%" src="https://c.tenor.com/oXPRxJ2GYJwAAAAd/tenor.gif" alt="spotify-github-profile" />
-      </a>
+       <img  height="50%"  width="100%" src="https://media1.tenor.com/m/lo5Ra1IZHx8AAAAd/kobo-kaneru-didn%27t-ask.gif" alt="spotify-github-profile" />
     </td>
     <td valign="top" width="40%">
         <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&include_all_commits=true&card_width=300px" alt="GitHub Streak Stats"/>
