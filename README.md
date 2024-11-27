@@ -49,11 +49,11 @@
 
 <table>
  <tr>
-    <td align="center" valign="center" width="38%">
+    <td align="center" valign="center" width="39%">
       <img  height="50%" width="100%" src="https://media1.tenor.com/m/7J5KjO6Y-AwAAAAd/dandadan-anime.gif" alt="gif" />
       <img  height="50%" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=o98rnsdoj0m9q5kntsv8nh1h2&width=300&unique=true" alt="gif" />
     </td>
-    <td valign="top" width="62%">
+    <td valign="top" width="61%">
       <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api?username=LeonardTarigan&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
       <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardTarigan&langs_count=10&layout=compact&theme=radical&hide_border=true&rank_icon=github&show_icons=true&card_width=500px&exclude_repo=mlops-tugas-1" alt="Top Langs"/>
 <img height="50%" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=asyncfnc&langs_count=10&layout=compact&theme=radical&hide_border=true"/>
