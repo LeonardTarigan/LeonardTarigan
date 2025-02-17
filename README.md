@@ -69,5 +69,5 @@
 
 <div align="center">
  <h1></h1>
- <p>© 2024 — Leonard Tarigan</p>
+ <p>© 2025 — Leonard Tarigan</p>
 </div>
