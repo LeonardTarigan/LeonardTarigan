@@ -50,7 +50,7 @@
 <table>
  <tr>
     <td align="center" valign="center" width="39%">
-      <img  height="50%" width="100%" src="https://media1.tenor.com/m/hXzsxHEkXDwAAAAd/gigi-murin-hololive.gif" alt="gif" />
+      <img  height="50%" width="100%" src="https://media1.tenor.com/m/ud6W-oCmN7gAAAAC/gigi-murin.gif" alt="gif" />
       <img  height="50%" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=o98rnsdoj0m9q5kntsv8nh1h2&width=300&unique=true" alt="gif" />
     </td>
     <td valign="top" width="61%">
